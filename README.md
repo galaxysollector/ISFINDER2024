@@ -27,3 +27,9 @@
 자동 업데이트가 완료되면 아래와 같이 시작 화면이 표시됩니다.
 
 <img src="https://raw.githubusercontent.com/galaxysollector/ISFINDER2024/main/screenshot2.png">
+
+### 옵션 선택
+
+아래와 같이 옵션을 선택한 후 사용자 이름과 비밀번호를 입력하면 이후의 과정이 모두 자동으로 진행됩니다.
+
+<img src="https://raw.githubusercontent.com/galaxysollector/IUFINDER2024/main/screenshot3.png">
